@@ -48,6 +48,21 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
    ```bash
    pip install -r requirements.txt
 
+3. **Make the script executable**:
+
+```bash
+   chmod +x baasha.sh 
+```  
+**Running the BAASHA Bash Script**
+
+**Usage**
+```bash
+./baasha.sh <URL>
+```
+**Example**
+```bash
+./baasha.sh https://example.com   
+```
 ### Features Explanation
 
   - IP Address Discovery: Pings the host to find its IP address.
@@ -67,3 +82,6 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
   - Nmap Scan: Performs a comprehensive network scan.
   - Directory Brute-Forcing: Runs a Dirb scan for hidden directories.
   - Robots.txt Check: Checks the robots.txt file for disallowed URLs.
+
+
+    
