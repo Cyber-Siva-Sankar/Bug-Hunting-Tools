@@ -1,4 +1,4 @@
-# BAASHA Bash Script
+# BASHA Bash Script
 
 ## Overview
 
@@ -48,28 +48,22 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
    ```bash
    pip install -r requirements.txt
 
-
-
-
-
-
-
 ### Features Explanation
 
-  IP Address Discovery: Pings the host to find its IP address.
-  Application Fingerprinting: Identifies technologies used on the site using WhatWeb.
-  WAF Detection: Detects Web Application Firewalls using Wafw00f.
-  Subdomain Enumeration: Enumerates subdomains.
-  JavaScript Analysis: Analyzes JavaScript files for endpoints.
-  Security Headers Check: Checks for security headers such as HSTS, CSP, etc.
-  CORS Misconfigurations: Detects CORS misconfigurations.
-  Clickjacking Detection: Checks for clickjacking protection using X-Frame-Options.
-  TLS/SSL Configuration: Verifies TLS/SSL settings.
-  Open Redirection Check: Tests for open redirection vulnerabilities.
-  Sitemap.xml URLs Check: Retrieves and verifies URLs from sitemap.xml.
-  Server Banner Grabber: Grabs the server banner information.
-  XSS Detection: Detects XSS vulnerabilities if parameters exist.
-  HTML Injection Detection: Detects HTML injection vulnerabilities if parameters exist.
-  Nmap Scan: Performs a comprehensive network scan.
-  Directory Brute-Forcing: Runs a Dirb scan for hidden directories.
-  Robots.txt Check: Checks the robots.txt file for disallowed URLs.
+  - IP Address Discovery: Pings the host to find its IP address.
+  - Application Fingerprinting: Identifies technologies used on the site using WhatWeb.
+  - WAF Detection: Detects Web Application Firewalls using Wafw00f.
+  - Subdomain Enumeration: Enumerates subdomains.
+  - JavaScript Analysis: Analyzes JavaScript files for endpoints.
+  - Security Headers Check: Checks for security headers such as HSTS, CSP, etc.
+  - CORS Misconfigurations: Detects CORS misconfigurations.
+  - Clickjacking Detection: Checks for clickjacking protection using X-Frame-Options.
+  - TLS/SSL Configuration: Verifies TLS/SSL settings.
+  - Open Redirection Check: Tests for open redirection vulnerabilities.
+  - Sitemap.xml URLs Check: Retrieves and verifies URLs from sitemap.xml.
+  - Server Banner Grabber: Grabs the server banner information.
+  - XSS Detection: Detects XSS vulnerabilities if parameters exist.
+  - HTML Injection Detection: Detects HTML injection vulnerabilities if parameters exist.
+  - Nmap Scan: Performs a comprehensive network scan.
+  - Directory Brute-Forcing: Runs a Dirb scan for hidden directories.
+  - Robots.txt Check: Checks the robots.txt file for disallowed URLs.
