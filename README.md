@@ -56,13 +56,13 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
 **Running the BAASHA Bash Script**
 
 **Usage**
-```bash
-./baasha.sh <URL>
-```
+   ```bash
+   ./baasha.sh <URL>
+   ```
 **Example**
-```bash
-./baasha.sh https://example.com   
-```
+   ```bash
+   ./baasha.sh https://example.com   
+   ```
 ### Features Explanation
 
   - IP Address Discovery: Pings the host to find its IP address.
@@ -83,9 +83,9 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
   - Directory Brute-Forcing: Runs a Dirb scan for hidden directories.
   - Robots.txt Check: Checks the robots.txt file for disallowed URLs.
 
-###Note
+### Note
 
-It's a Combined tool which help you to find the information about your target, instead of using one by one tool you can directly run it, 
+   It's a Combined tool which help you to find the information about your target, instead of using one by one tool you can directly run it, 
 
-Happy Hacking ;)
+   Happy Hacking ;)
     
