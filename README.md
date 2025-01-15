@@ -50,9 +50,9 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
 
 3. **Make the script executable**:
 
-```bash
+   ```bash
    chmod +x baasha.sh 
-```  
+   ```  
 **Running the BAASHA Bash Script**
 
 **Usage**
@@ -83,5 +83,9 @@ The BAASHA Bash Script is a comprehensive tool designed for web application secu
   - Directory Brute-Forcing: Runs a Dirb scan for hidden directories.
   - Robots.txt Check: Checks the robots.txt file for disallowed URLs.
 
+###Note
 
+It's a Combined tool which help you to find the information about your target, instead of using one by one tool you can directly run it, 
+
+Happy Hacking ;)
     
