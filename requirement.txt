@@ -1,0 +1,6 @@
+curl
+jq
+whatweb
+wafw00f
+dirb
+nmap
